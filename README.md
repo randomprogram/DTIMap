@@ -1,5 +1,6 @@
 # DTIMap
-DTIMap plugin for Horos/Osirix
+<a href = http://randomprogram.net/software/OsirixPlugins/DTIMap.html>
+DTIMap plugin for Horos/Osirix </a>
 
 Discussion forum and issue report page
 
